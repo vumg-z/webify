@@ -1383,12 +1383,20 @@ input:checked + .toggle-bg {
   height: 100vh;
 }
 
+.h-7 {
+  height: 1.75rem;
+}
+
 .w-1\/2 {
   width: 50%;
 }
 
 .w-10 {
   width: 2.5rem;
+}
+
+.w-32 {
+  width: 8rem;
 }
 
 .w-4 {
@@ -1415,20 +1423,16 @@ input:checked + .toggle-bg {
   width: 16rem;
 }
 
-.w-auto {
-  width: auto;
-}
-
 .w-full {
   width: 100%;
 }
 
-.w-32 {
-  width: 8rem;
+.w-7 {
+  width: 1.75rem;
 }
 
-.w-60 {
-  width: 15rem;
+.w-8 {
+  width: 2rem;
 }
 
 .max-w-full {
