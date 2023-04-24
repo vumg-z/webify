@@ -3927,6 +3927,10 @@ input:checked + .toggle-bg {
     height: 1.5rem;
   }
 
+  .lg\:h-8 {
+    height: 2rem;
+  }
+
   .lg\:w-12 {
     width: 3rem;
   }
